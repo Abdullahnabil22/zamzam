@@ -25,5 +25,5 @@ window.onload = function () {
   });
 };
 function navigateToHome() {
-  window.location.href = "index.html";
+  window.location.href = "home.html";
 }

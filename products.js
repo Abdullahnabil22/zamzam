@@ -51,7 +51,7 @@ function loadProducts(category) {
 }
 
 function navigateToHome() {
-  window.location.href = "index.html";
+  window.location.href = "home.html";
 }
 function navigateToCart() {
   window.location.href = "cart.html";
