@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Banana",
+        "category": "fruits",
+        "price": "2.99 EGP/kg",
+        "image": "img/p3.png"
+    },
+    {
+        "name": "Orange",
+        "category": "fruits",
+        "price": "1.99 EGP/kg",
+        "image": "img/p12.png"
+    },
+    {
+        "name": "Peach",
+        "category": "fruits",
+        "price": "4.99 EGP/kg",
+        "image": "img/p1.png"
+    },
+    {
+        "name": "Strawberry",
+        "category": "fruits",
+        "price": "3.49 EGP/kg",
+        "image": "img/p4.png"
+    },
+    {
+        "name": "Watermelon",
+        "category": "fruits",
+        "price": "3.49 EGP/kg",
+        "image": "img/p8.png"
+    },
+    {
+        "name": "Mango",
+        "category": "fruits",
+        "price": "3.49 EGP/kg",
+        "image": "img/p9.png"
+    },
+    {
+        "name": "Tomato",
+        "category": "Vegetables",
+        "price": "0.99 EGP/kg",
+        "image": "img/p6.png"
+    },
+    {
+        "name": "botatos",
+        "category": "Vegetables",
+        "price": "1.49 EGP/kg",
+        "image": "img/p5.png"
+    },
+    {
+        "name": "Carrot",
+        "category": "Vegetables",
+        "price": "1.29 EGP/kg",
+        "image": "img/p7.png"
+    },
+    {
+        "name": "Cucumber",
+        "category": "Vegetables",
+        "price": "4.99 EGP/kg",
+        "image": "img/p2.png"
+    },
+    {
+        "name": "Onion",
+        "category": "Vegetables",
+        "price": "4.99 EGP/kg",
+        "image": "img/p11.png"
+    },
+    {
+        "name": "Pepper",
+        "category": "Vegetables",
+        "price": "4.99 EGP/kg",
+        "image": "img/p10.png"
+    },
+    {
+        "name": "Pineapple",
+        "category": "Drinks",
+        "price": "20 EGP",
+        "image": "img/cate3.png"
+    },
+    {
+        "name": "Kiwi",
+        "category": "Drinks",
+        "price": "32 EGP",
+        "image": "img/p17.png"
+    },
+    {
+        "name": "Mango",
+        "category": "Drinks",
+        "price": "43 EGP",
+        "image": "img/p16.png"
+    },
+    {
+        "name": "Mojito",
+        "category": "Drinks",
+        "price": "25 EGP",
+        "image": "img/p15.png"
+    },
+    {
+        "name": "Strawberry",
+        "category": "Drinks",
+        "price": "30 EGP",
+        "image": "img/P14.png"
+    },
+    {
+        "name": "Orange",
+        "category": "Drinks",
+        "price": "40 EGP",
+        "image": "img/p13.png"
+    },
+    {
+        "name": "Raw Hazelnuts",
+        "category": "Fresh Nuts",
+        "price": "93 EGP/kg",
+        "image": "img/p20.png"
+    },
+    {
+        "name": "Raw Peeled Pistachios",
+        "category": "Fresh Nuts",
+        "price": "310 EGP/kg",
+        "image": "img/p21.png"
+    },
+    {
+        "name": "Shelled Walnuts",
+        "category": "Fresh Nuts",
+        "price": "85 EGP/kg",
+        "image": "img/p22.png"
+    },
+    {
+        "name": "Raw Pecan ",
+        "category": "Fresh Nuts",
+        "price": "190 EGP/kg",
+        "image": "img/p23.png"
+    },
+    {
+        "name": "Raw Cashews Jumbo",
+        "category": "Fresh Nuts",
+        "price": "120 EGP/kg",
+        "image": "img/p19.png"
+    },
+    {
+        "name": "Raw Almond Slices ",
+        "category": "Fresh Nuts",
+        "price": "95 EGP/kg",
+        "image": "img/p24.png"
+    },
+    {
+        "name": "Kabsa Spice ",
+        "category": "Spices",
+        "price": "30 EGP/kg",
+        "image": "img/p25.png"
+    },
+    {
+        "name": "Pickling seasoning",
+        "category": "Spices",
+        "price": "50 EGP/kg",
+        "image": "img/p26.png"
+    },
+    {
+        "name": "Galangal root ",
+        "category": "Spices",
+        "price": "40 EGP/kg",
+        "image": "img/p27.png"
+    },
+    {
+        "name": "cookies seasoning ",
+        "category": "Spices",
+        "price": "66 EGP/kg",
+        "image": "img/p28.png"
+    },
+    {
+        "name": "Ground aniseeds",
+        "category": "Spices",
+        "price": "54 EGP/kg",
+        "image": "img/p29.png"
+    },
+    {
+        "name": "Corn seasoning ",
+        "category": "Spices",
+        "price": "33 EGP/kg",
+        "image": "img/p30.png"
+    }
+]
